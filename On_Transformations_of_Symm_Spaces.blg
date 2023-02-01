@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99d (TeX Live 2019/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: On_Transformations_of_Symm_Spaces.aux
+The style file: amsplain.bst
+Database file #1: Referencias.bib
+You've used 1 entry,
+            2213 wiz_defined-function locations,
+            506 strings with 4066 characters,
+and the built_in function-call counts, 308 in all, are:
+= -- 25
+> -- 7
+< -- 0
++ -- 3
+- -- 2
+* -- 23
+:= -- 53
+add.period$ -- 1
+call.type$ -- 1
+change.case$ -- 4
+chr.to.int$ -- 0
+cite$ -- 1
+duplicate$ -- 11
+empty$ -- 29
+format.name$ -- 2
+if$ -- 60
+int.to.chr$ -- 0
+int.to.str$ -- 1
+missing$ -- 2
+newline$ -- 13
+num.names$ -- 2
+pop$ -- 5
+preamble$ -- 1
+purify$ -- 3
+quote$ -- 0
+skip$ -- 6
+stack$ -- 0
+substring$ -- 26
+swap$ -- 1
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 4
+warning$ -- 0
+while$ -- 3
+width$ -- 2
+write$ -- 17

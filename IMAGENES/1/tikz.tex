@@ -1,0 +1,12 @@
+\documentclass{standalone}
+\usepackage{tikz}
+
+\begin{document}
+
+\begin{tikzpicture}[>=latex]
+	\draw (0,0) circle (1.5cm);
+	\filldraw [rotate=140] (-1.5,0) node [below right] {\(x\)} circle (1.5pt) -- (1.5,0) node [above left] {\(fx\)} circle (1.5pt);
+	\fill (0,0) circle (1.5pt) node [below] {\(x_0\)};
+\end{tikzpicture}
+
+\end{document}
